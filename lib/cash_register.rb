@@ -34,7 +34,7 @@ class CashRegister
     if @items.empty?()
       @total = 0
     else
-      @total 
+      @total
     ends
   end
 end
