@@ -35,5 +35,5 @@ class CashRegister
       @total -= @total
     end
     @total
-  end 
+  end
 end
