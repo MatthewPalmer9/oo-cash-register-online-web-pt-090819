@@ -1,7 +1,7 @@
-class CashResgister 
-  attr_accessor :total 
+class CashResgister
+  attr_accessor :total
 
   def initialize(@total = 0)
-    @total = total 
-  end 
-end 
+    @total = total
+  end
+end
