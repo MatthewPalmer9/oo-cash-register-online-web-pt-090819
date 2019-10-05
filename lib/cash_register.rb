@@ -33,6 +33,8 @@ class CashRegister
     @total -= @last_transaction
     if @items.empty?()
       @total = 0
-    end 
+    else
+      @total 
+    ends
   end
 end
