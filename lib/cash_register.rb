@@ -12,7 +12,7 @@ class CashRegister
     if quantity >= 1
       quantity.times(){@items << title}
     end
-    @total 
+    @total
     @last_transaction = @total
   end
 
