@@ -1,4 +1,4 @@
-class CashResgister
+class CashRegister
   attr_accessor :total
 
   def initialize
