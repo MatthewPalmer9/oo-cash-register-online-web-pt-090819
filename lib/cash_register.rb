@@ -34,5 +34,6 @@ class CashRegister
     if @total == 0
       @total = 0.to_f
     end
+    @total 
   end
 end
